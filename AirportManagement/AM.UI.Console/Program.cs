@@ -15,7 +15,7 @@ class Program
         {
             planetype = planeType.airBus,
             capacity = 150,
-            manufactureDate = new DateOnly(2022, 2, 22)
+            manufactureDate = new DateOnly(2022, 2, 21)
         };
     }
 }
