@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fx83wccXgv+naOdndvKS8hk7pOCduFKuOouTO7Xn0vwAhMYBQl5tdGF2WOeWIJfICPbzzUYX6ConSkyMXbmqCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\OneDrive\\Bureau\\Revision\\ApplicationCore\\ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
